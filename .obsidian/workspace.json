@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "f53bc6ebc48876c3",
+        "id": "7c22c817d900fe49",
         "type": "tabs",
         "children": [
           {
-            "id": "1f7200c674b3201c",
+            "id": "bdcfab9ee1817f28",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -180,7 +180,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -194,10 +195,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "1f7200c674b3201c",
+  "active": "bdcfab9ee1817f28",
   "lastOpenFiles": [
-    "SUMMARY.md",
     "1 Conociendo la imagen digital/1.1 Que es una imagen.md",
+    "SUMMARY.md",
     "1-Historia-del-diseno-grafico/README.md",
     "1-Historia-del-diseno-grafico",
     "1 Conociendo la imagen digital"
