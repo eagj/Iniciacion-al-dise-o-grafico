@@ -27,15 +27,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1 Conociendo la imagen digital/1.9 Formatos de la imagen digital.md",
+                "file": "1 Conociendo la imagen digital/1.8 Ejercicio.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1.9 Formatos de la imagen digital"
+              "title": "1.8 Ejercicio"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -108,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SUMMARY.md",
+                "file": "1 Conociendo la imagen digital/1.8 Ejercicio.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +119,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Enlaces entrantes de SUMMARY"
+              "title": "Enlaces entrantes de 1.8 Ejercicio"
             }
           },
           {
@@ -127,12 +128,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SUMMARY.md",
+                "file": "1 Conociendo la imagen digital/1.8 Ejercicio.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Enlaces salientes de SUMMARY"
+              "title": "Enlaces salientes de 1.8 Ejercicio"
             }
           },
           {
@@ -170,13 +171,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SUMMARY.md",
+                "file": "1 Conociendo la imagen digital/1.8 Ejercicio.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Esquema de SUMMARY"
+              "title": "Esquema de 1.8 Ejercicio"
             }
           },
           {
@@ -209,7 +210,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "4228ce774dc1d819",
+  "active": "784aba1941e5621e",
   "lastOpenFiles": [
     "1 Conociendo la imagen digital/1.9 Formatos de la imagen digital.md",
     "SUMMARY.md",
