@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sin título.md",
+                "file": "1 Conociendo la imagen digital/1.7 Modos de color.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Sin título"
+              "title": "1.7 Modos de color"
             }
           },
           {
@@ -63,8 +63,7 @@
               "title": "1.4 La imagen vectorial"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -137,7 +136,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sin título.md",
+                "file": "SUMMARY.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +146,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Enlaces entrantes de Sin título"
+              "title": "Enlaces entrantes de SUMMARY"
             }
           },
           {
@@ -156,12 +155,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sin título.md",
+                "file": "SUMMARY.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Enlaces salientes de Sin título"
+              "title": "Enlaces salientes de SUMMARY"
             }
           },
           {
@@ -199,13 +198,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sin título.md",
+                "file": "SUMMARY.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Esquema de Sin título"
+              "title": "Esquema de SUMMARY"
             }
           },
           {
@@ -238,10 +237,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "21ea62fcca5db2d8",
+  "active": "bdcfab9ee1817f28",
   "lastOpenFiles": [
+    "1 Conociendo la imagen digital/1.7 Modos de color.md",
+    "1 Conociendo la imagen digital/Pasted image 20260309155607.png",
+    "1 Conociendo la imagen digital/Pasted image 20260309155455.png",
     "SUMMARY.md",
-    "Sin título.md",
     "1 Conociendo la imagen digital/1.3  La imagen rasterizada.md",
     "1 Conociendo la imagen digital/Pasted image 20260309155022.png",
     "1 Conociendo la imagen digital/1.6 Ejercicio.md",
