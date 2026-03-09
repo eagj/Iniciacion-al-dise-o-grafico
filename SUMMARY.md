@@ -16,4 +16,6 @@
   * [2.2 Diseño offline y online](2%20Tipos%20de%20diseño%20gráfico/2.2%20Diseño%20offline%20y%20online.md)
   * [2.3. Ejercicio](2%20Tipos%20de%20diseño%20gráfico/2.3.%20Ejercicio.md)
   * [2.4. Tipologías de diseño gráfico](2%20Tipos%20de%20diseño%20gráfico/2.4.%20Tipologías%20de%20diseño%20gráfico.md)
+  * [2.5. Ejercicio](2%20Tipos%20de%20diseño%20gráfico/2.5.%20Ejercicio.md)
+  * [2.6. Roles en diseño gráfico](2%20Tipos%20de%20diseño%20gráfico/2.6.%20Roles%20en%20diseño%20gráfico.md)
   * 

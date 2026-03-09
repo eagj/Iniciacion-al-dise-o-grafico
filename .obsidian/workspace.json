@@ -55,7 +55,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2.6. Roles en diseño gráfico.md",
+                "file": "2 Tipos de diseño gráfico/2.6. Roles en diseño gráfico.md",
                 "mode": "source",
                 "source": false
               },
@@ -63,8 +63,7 @@
               "title": "2.6. Roles en diseño gráfico"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -137,7 +136,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2.6. Roles en diseño gráfico.md",
+                "file": "SUMMARY.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +146,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Enlaces entrantes de 2.6. Roles en diseño gráfico"
+              "title": "Enlaces entrantes de SUMMARY"
             }
           },
           {
@@ -156,12 +155,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2.6. Roles en diseño gráfico.md",
+                "file": "SUMMARY.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Enlaces salientes de 2.6. Roles en diseño gráfico"
+              "title": "Enlaces salientes de SUMMARY"
             }
           },
           {
@@ -199,13 +198,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2.6. Roles en diseño gráfico.md",
+                "file": "SUMMARY.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Esquema de 2.6. Roles en diseño gráfico"
+              "title": "Esquema de SUMMARY"
             }
           },
           {
@@ -238,11 +237,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d4be44346870557d",
+  "active": "bdcfab9ee1817f28",
   "lastOpenFiles": [
+    "2 Tipos de diseño gráfico/2.6. Roles en diseño gráfico.md",
     "1 Conociendo la imagen digital/1.2 Tipos de imágenes digitales.md",
     "1 Conociendo la imagen digital/1.1 Que es una imagen.md",
-    "2.6. Roles en diseño gráfico.md",
     "2 Tipos de diseño gráfico/2.5. Ejercicio.md",
     "2 Tipos de diseño gráfico/Pasted image 20260309165042.png",
     "2 Tipos de diseño gráfico/Pasted image 20260309164928.png",
