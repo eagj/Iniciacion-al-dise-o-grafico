@@ -63,7 +63,8 @@
               "title": "2.1 Introducción"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -136,7 +137,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SUMMARY.md",
+                "file": "2 Tipos de diseño gráfico/2.2 Diseño offline y online.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -146,7 +147,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Enlaces entrantes de SUMMARY"
+              "title": "Enlaces entrantes de 2.2 Diseño offline y online"
             }
           },
           {
@@ -155,12 +156,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SUMMARY.md",
+                "file": "2 Tipos de diseño gráfico/2.2 Diseño offline y online.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Enlaces salientes de SUMMARY"
+              "title": "Enlaces salientes de 2.2 Diseño offline y online"
             }
           },
           {
@@ -198,13 +199,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SUMMARY.md",
+                "file": "2 Tipos de diseño gráfico/2.2 Diseño offline y online.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Esquema de SUMMARY"
+              "title": "Esquema de 2.2 Diseño offline y online"
             }
           },
           {
@@ -237,10 +238,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "bdcfab9ee1817f28",
+  "active": "782bdc5a06f57223",
   "lastOpenFiles": [
-    "1 Conociendo la imagen digital/README.md",
     "SUMMARY.md",
+    "1 Conociendo la imagen digital/README.md",
     "2 Tipos de diseño gráfico/2.1 Introducción.md",
     "2 Tipos de diseño gráfico/2.2 Diseño offline y online.md",
     "1 Conociendo la imagen digital/1.8 Ejercicio.md",
