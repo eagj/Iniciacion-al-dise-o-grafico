@@ -8,3 +8,5 @@
   * [1.5 Características y ámbitos de la aplicación](1%20Conociendo%20la%20imagen%20digital/1.5%20Características%20y%20ámbitos%20de%20la%20aplicación.md)
   * [1.6 Ejercicio](1%20Conociendo%20la%20imagen%20digital/1.6%20Ejercicio.md)
   * [1.7 Modos de color](1%20Conociendo%20la%20imagen%20digital/1.7%20Modos%20de%20color.md)
+  * [1.8 Ejercicio](1%20Conociendo%20la%20imagen%20digital/1.8%20Ejercicio.md)
+  * [1.9 Formatos de la imagen digital](1%20Conociendo%20la%20imagen%20digital/1.9%20Formatos%20de%20la%20imagen%20digital.md)
