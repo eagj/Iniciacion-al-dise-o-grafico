@@ -25,3 +25,4 @@
   * [3.3. Ejercicio](3.%20El%20diseño%20gráfico%20y%20la%20identidad%20visual%20corporativa/3.3.%20Ejercicio.md)
   * [3.4. Manual de identidad corporativa](3.%20El%20diseño%20gráfico%20y%20la%20identidad%20visual%20corporativa/3.4.%20Manual%20de%20identidad%20corporativa.md)
   * [3.5. Elementos esencial en un manual](3.%20El%20diseño%20gráfico%20y%20la%20identidad%20visual%20corporativa/3.5.%20Elementos%20esencial%20en%20un%20manual.md)
+  * [3.6. Beneficios del manual de identidad corporativa](3.%20El%20diseño%20gráfico%20y%20la%20identidad%20visual%20corporativa/3.6.%20Beneficios%20del%20manual%20de%20identidad%20corporativa.md)
